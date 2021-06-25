@@ -1,0 +1,2 @@
+# .NetCoreCodeTest
+.NetCoreCodeTest
